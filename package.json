@@ -1,5 +1,6 @@
 {
-  "name": "natura",
+  "name": "natours",
+  "homepage": "https://devgenyr.github.io/css-natours",
   "version": "1.0.0",
   "description": "CSS training",
   "main": "index.js",
